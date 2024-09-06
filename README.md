@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD -->
 # MERN-Flight-Booking-Application
 
 
