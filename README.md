@@ -62,19 +62,19 @@ Flight Selection Page:
 
 Seat Selection Page:
 
-![](Screenshorts/seatselection.png)
+![](Screenshots/seatselection.png)
 
 Payment & Confirmation Page:
 
-![](Screenshorts/payment.png)
+![](Screenshots/payment.png)
 
 Ticket Cancellation Page:
 
-![](Screenshorts/cancellation.png)
+![](Screenshots/cancellation.png)
 
 Integrated AI Chatbot:
 
-![](Screenshorts/aichatbot.png)
+![](Screenshots/aichatbot.png)
 ---
 
 ## Developed With
