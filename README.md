@@ -50,31 +50,31 @@ This project also demonstrates:
 **Screenshots:**
 Landing Page:
 
-![](documentationResources/homepage.png)
+![](Screenshots/homepage.png)
 
 Signing In Page:
 
-![](documentationResources/login.png)
+![](Screenshots/login.png)
 
 Flight Selection Page:
 
-![](documentationResources/booking.png)
+![](Screenshots/booking.png)
 
 Seat Selection Page:
 
-![](documentationResources/seatselection.png)
+![](Screenshorts/seatselection.png)
 
 Payment & Confirmation Page:
 
-![](documentationResources/payment.png)
+![](Screenshorts/payment.png)
 
 Ticket Cancellation Page:
 
-![](documentationResources/cancellation.png)
+![](Screenshorts/cancellation.png)
 
 Integrated AI Chatbot:
 
-![](documentationResources/aichatbot.png)
+![](Screenshorts/aichatbot.png)
 ---
 
 ## Developed With
