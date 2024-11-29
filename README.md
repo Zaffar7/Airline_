@@ -56,7 +56,7 @@ Signing In Page:
 
 ![](Screenshots/login.png)
 
-Flight Selection Page:
+<!--Flight Selection Page:
 
 ![](Screenshots/booking.png)
 
@@ -74,7 +74,7 @@ Ticket Cancellation Page:
 
 Integrated AI Chatbot:
 
-![](Screenshots/aichatbot.png)
+![](Screenshots/aichatbot.png)-->
 ---
 
 ## Developed With
