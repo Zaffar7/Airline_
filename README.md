@@ -50,7 +50,7 @@ This project also demonstrates:
 **Screenshots:**
 Landing Page:
 
-![](Screenshots/homepage.png)
+![](home.png)
 
 Signing In Page:
 
